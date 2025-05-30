@@ -1,6 +1,6 @@
 # Nuitbot
 
-A Twitch chatbot built with Python.
+A Twitch chatbot built with Python!
 
 ## Prerequisites
 
